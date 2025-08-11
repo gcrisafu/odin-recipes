@@ -1,0 +1,14 @@
+.block1 {
+    background-color: #ffa26d;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    font-size: 12px;
+    color: azure;
+}
+
+.container {
+    margin: 12px auto;
+    padding: 20px;
+    background-color:rgb(255, 220, 105);
+}
