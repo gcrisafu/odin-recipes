@@ -1,14 +1,52 @@
-.block1 {
+
+.block {
     background-color: #ffa26d;
     padding: 20px;
     border-radius: 5px;
     margin: 20px auto;
     font-size: 12px;
-    color: azure;
+    max-width: 600px;
+    text-align: center;
 }
 
 .container {
     margin: 12px auto;
+    max-width:  400px;
     padding: 20px;
     background-color:rgb(255, 220, 105);
+    border-radius: 10px;
+}
+
+a {
+    font-family: Arial, sans-serif;
+    color :white;
+    text-decoration: none;
+}
+
+button {
+    background-color: #1783ff;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: 4px auto;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+.tools {
+    text-align:center;
+    margin 20px auto;
+}
+.recipes {
+    text-align:center;
+    margin 20px auto;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
 }
